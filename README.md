@@ -19,7 +19,7 @@ status: public
 ## request 入门
 request 中文官网[http://docs.python-requests.org/zh_CN/latest/index.html](http://docs.python-requests.org/zh_CN/latest/index.html)
 第一步：[安装最新的request](http://docs.python-requests.org/zh_CN/latest/user/install.html#install)
-第二步：随便抓个网页，比如 新浪新闻 http://news.sina.com.cn/，一行代码就ok
+第二步：随便抓个网页，比如 [新浪新闻](http://news.sina.com.cn/)，一行代码就ok
 python版本：2.7
 ``` python
 import request
