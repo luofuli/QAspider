@@ -90,7 +90,7 @@ type(unicode_string)
 > 使用.string属性的时候要特别小心，如果tag只有一个 NavigableString 类型子节点,那么这个tag可以使用 .string 得到子节点
 
 也就是对于下面这个例子：
-```` python
+``` python
 soup = BeautifulSoup('<p>a<br>b</p>')
 p_tag = soup.p
 p_tag.string
